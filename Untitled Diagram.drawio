@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-12-06T07:54:36.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="FqVAKnG-F5mONywocxdC" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T08:01:53.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="2eImP6o9S6CmtcDdbwwu" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
-    <mxGraphModel dx="1261" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -135,6 +135,9 @@
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;解约&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#97D077;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1780" y="322" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-41" value="&lt;font style=&quot;font-size: 18px&quot; color=&quot;#3333ff&quot;&gt;全流程利润监控&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=center;labelPosition=center;pointerEvents=1;fillColor=none;rotation=90;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="921" y="-560" width="50" height="1550" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
