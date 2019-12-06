@@ -1,44 +1,74 @@
-<mxfile host="www.draw.io" modified="2019-12-06T07:07:12.916Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="0ndazjB7AG_ewBNZPM-r" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-06T07:15:32.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="UNwIctowvqNAPiiFFvsV" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
-    <mxGraphModel dx="473" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
         <mxCell id="-rSRdJJcapElQBQnEtXR-1" value="利润策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="270" width="90" height="40" as="geometry"/>
+          <mxGeometry x="561" y="470" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-2" value="回款策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="90" height="40" as="geometry"/>
+          <mxGeometry x="671" y="470" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-3" value="出房价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="270" width="90" height="40" as="geometry"/>
+          <mxGeometry x="451" y="470" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-4" value="普租价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="270" width="90" height="40" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-4" value="最低毛利率策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="470" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-5" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="135" y="270" as="sourcePoint"/>
-            <mxPoint x="135" y="210" as="targetPoint"/>
+            <mxPoint x="496" y="470" as="sourcePoint"/>
+            <mxPoint x="496" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-6" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="245" y="270" as="sourcePoint"/>
-            <mxPoint x="245" y="210" as="targetPoint"/>
+            <mxPoint x="606" y="470" as="sourcePoint"/>
+            <mxPoint x="606" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-7" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="270" as="sourcePoint"/>
-            <mxPoint x="355" y="210" as="targetPoint"/>
+            <mxPoint x="716" y="470" as="sourcePoint"/>
+            <mxPoint x="716" y="410" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-8" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="465" y="270" as="sourcePoint"/>
-            <mxPoint x="465" y="210" as="targetPoint"/>
+            <mxPoint x="826" y="470" as="sourcePoint"/>
+            <mxPoint x="826" y="410" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-9" value="普租价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="891" y="470" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-10" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="936" y="470" as="sourcePoint"/>
+            <mxPoint x="936" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-11" value="相似案例价格" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="470" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-12" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1046" y="470" as="sourcePoint"/>
+            <mxPoint x="1046" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-13" value="成本及房态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1111" y="470" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-14" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1156" y="470" as="sourcePoint"/>
+            <mxPoint x="1156" y="410" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-15" value="&lt;h2&gt;&lt;span&gt;加工车间&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeWidth=1;strokeColor=#9999FF;fillColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="350" y="452" width="900" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
