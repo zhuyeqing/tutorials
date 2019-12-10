@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-10T06:38:25.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="J-S3ExExdMK_Lk5BY8h7" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T06:47:38.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="3NRxzZJ2kU_l7k9Tja5w" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
     <mxGraphModel dx="1261" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -268,17 +268,17 @@
         <mxCell id="-rSRdJJcapElQBQnEtXR-80" value="合伙人利率策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="1600" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-82" value="普租调整策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="1480" width="90" height="40" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-82" value="新收定价流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="495" y="1240" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-83" value="近似案例策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="629" y="1480" width="90" height="40" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-83" value="续租定价流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="629" y="1240" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-84" value="模型案例策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="763" y="1480" width="90" height="40" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-84" value="异常房源定价流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1240" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-85" value="合同年限策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="897" y="1480" width="90" height="40" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-85" value="合伙人定价流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="1240" width="90" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-87" value="续租定价策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="562" y="1334" width="90" height="40" as="geometry"/>
@@ -291,6 +291,12 @@
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-92" value="合伙人定价策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="812" y="1386" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-93" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#6666FF;strokeWidth=1;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567" y="1380" as="sourcePoint"/>
+            <mxPoint x="787.5" y="1379.5" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
