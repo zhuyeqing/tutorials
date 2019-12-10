@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-12-06T08:38:56.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="Q5O0YzlXM6FSh6wY1xJj" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-10T02:25:38.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="-ll1j75NkqHvAi-DLHkA" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
-    <mxGraphModel dx="1892" dy="1090" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-54" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;质检部门&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;(方案审核服务)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fillColor=none;dashed=1;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="774" width="380" height="336" as="geometry"/>
+        </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-15" value="&lt;h2&gt;&lt;span&gt;加工车间&lt;/span&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;strokeWidth=1;strokeColor=#9999FF;fillColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="232" y="954" width="1250" height="80" as="geometry"/>
         </mxCell>
@@ -106,7 +109,7 @@
         <mxCell id="-rSRdJJcapElQBQnEtXR-28" value="" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];" vertex="1" parent="-rSRdJJcapElQBQnEtXR-25">
           <mxGeometry x="66" y="33" width="36" height="57" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;产品质检&lt;br&gt;(方案审核)&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="-rSRdJJcapElQBQnEtXR-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;产品质检&lt;br&gt;&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;strokeColor=#FF6666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1322" y="791" width="100" height="122" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-32" value="销售" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;strokeColor=#FF6666;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
@@ -125,7 +128,7 @@
           <mxGeometry x="1402" y="890" width="25" height="75" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;审核通过&lt;/font&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=#97D077;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1504" y="833.5" width="100" height="37" as="geometry"/>
+          <mxGeometry x="1478" y="833.5" width="100" height="37" as="geometry"/>
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-38" value="&lt;font style=&quot;font-size: 18px&quot;&gt;签订合约&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#97D077;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1652" y="823" width="120" height="60" as="geometry"/>
@@ -169,8 +172,8 @@
             <mxPoint x="1" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;生产工厂&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;(定价服务)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fillColor=none;dashed=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="774" width="1058" height="316" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-48" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;生产工厂&lt;/font&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;(定价服务)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fillColor=none;dashed=1;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="160" y="774" width="1058" height="336" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
