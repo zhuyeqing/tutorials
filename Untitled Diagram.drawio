@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-14T09:15:09.019Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="w6wT4CwHLNDCoanV2nHL" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-14T09:21:10.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="tiSftvWO-Eg3Ez91AYv-" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
     <mxGraphModel dx="946" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -313,8 +313,8 @@
         <mxCell id="-rSRdJJcapElQBQnEtXR-98" value="合同年限策略" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="897" y="1480" width="90" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="-rSRdJJcapElQBQnEtXR-101" value="全链路全生命周期利润检测与监控" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#808080;strokeWidth=1;fillColor=none;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="655" width="120" height="60" as="geometry"/>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-101" value="全链路全生命周期利润检测与监控" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;fontSize=8;align=center;arcSize=37;" vertex="1" parent="1">
+          <mxGeometry x="1089" y="654" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
