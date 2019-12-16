@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T08:48:15.882Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="LO4BA41VVJ4O-6KvHljX" version="12.3.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T08:48:40.650Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" etag="fC0hlh6IVCIxiyptn_1T" version="12.3.7" type="github" pages="1">
   <diagram id="HB1foXao_2k8xeVR197A" name="Page-1">
     <mxGraphModel dx="1261" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -378,6 +378,9 @@
         </mxCell>
         <mxCell id="-rSRdJJcapElQBQnEtXR-117" value="异常房源价格审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1582.5" y="1480" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="-rSRdJJcapElQBQnEtXR-118" value="新收价格方案推荐" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="1360" width="90" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
